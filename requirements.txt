@@ -1,1 +1,1 @@
-edge-tts
+azure-cognitiveservices-speech
